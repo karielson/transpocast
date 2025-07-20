@@ -17,5 +17,5 @@
     <itunes:explicit>no</itunes:explicit>
 
 
-  <item><title>TranspoCast News - 20-07-2025</title><description>Resumo das principais notícias de mobilidade urbana do dia 20-07-2025.</description><enclosure url="https://karielson.github.io/transpocast/transpocast_20-07-2025.mp3" type="audio/mpeg" length="12345678" /><guid>https://karielson.github.io/transpocast/transpocast_20-07-2025.mp3</guid><pubDate>Sun, 20 Jul 2025 14:22:45 +0000</pubDate><itunes:image href="https://karielson.github.io/transpocast/capa_transpocastnews_v2.jpg" /></item></channel>
+  <item /><item><title>TranspoCast News: 20-07-2025</title><description>Resumo das principais notícias de mobilidade urbana do dia 20-07-2025.</description><enclosure url="https://karielson.github.io/transpocast/transpocast_20-07-2025.mp3" type="audio/mpeg" length="12345678" /><guid>https://karielson.github.io/transpocast/transpocast_20-07-2025.mp3</guid><pubDate>Sun, 20 Jul 2025 17:25:40 +0000</pubDate><itunes:image href="https://karielson.github.io/transpocast/capa_transpocastnews_v2.jpg" /></item></channel>
 </rss>
