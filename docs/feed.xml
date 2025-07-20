@@ -1,2 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>TranspoCast</title><link>https://karielson.github.io/transpocast/</link><description>TranspoCast é um programa sobre mobilidade urbana, transporte público e inovação no setor. Com linguagem acessível e conteúdo relevante, o podcast traz desde análises técnicas e entrevistas até o giro diário de notícias no quadro especial TranspoCast News, tudo voltado a quem vive, estuda ou trabalha com transporte público.</description><language>pt-br</language><itunes:author>Karielson Medeiros Feitosa</itunes:author><itunes:owner><itunes:name>Karielson Medeiros Feitosa</itunes:name><itunes:email>karielson1@gmail.com</itunes:email></itunes:owner><itunes:image href="https://karielson.github.io/transpocast/capa.png" /><item><title>TranspoCast News - 19-07-2025</title><description>Resumo das principais notícias de mobilidade urbana do dia 19-07-2025.</description><enclosure url="https://karielson.github.io/transpocast/transpocast_2025-07-19.mp3" type="audio/mpeg" length="12345678" /><guid>https://karielson.github.io/transpocast/transpocast_2025-07-19.mp3</guid><pubDate>Sat, 19 Jul 2025 15:33:48 +0000</pubDate><itunes:image href="https://karielson.github.io/transpocast/capa_transpocastnews.jpg" /></item><item><title>TranspoCast News - 20-07-2025</title><description>Resumo das principais notícias de mobilidade urbana do dia 20-07-2025.</description><enclosure url="https://karielson.github.io/transpocast/transpocast_2025-07-20.mp3" type="audio/mpeg" length="12345678" /><guid>https://karielson.github.io/transpocast/transpocast_2025-07-20.mp3</guid><pubDate>Sun, 20 Jul 2025 11:14:01 +0000</pubDate><itunes:image href="https://karielson.github.io/transpocast/capa_transpocastnews.jpg" /></item></channel></rss>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>TranspoCast</title>
+    <link>https://karielson.github.io/transpocast/</link>
+    <description>TranspoCast é um programa sobre mobilidade urbana, transporte público e inovação no setor. Com linguagem acessível e conteúdo relevante, o podcast traz desde análises técnicas e entrevistas até o giro diário de notícias no quadro especial TranspoCast News, tudo voltado a quem vive, estuda ou trabalha com transporte público.</description>
+    <language>pt-br</language>
+
+    <itunes:author>Karielson Medeiros Feitosa</itunes:author>
+    <itunes:owner>
+      <itunes:name>Karielson Medeiros Feitosa</itunes:name>
+      <itunes:email>karielson1@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://karielson.github.io/transpocast/capa.png" />
+    
+    <itunes:category text="News" />
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>TranspoCast News - 19-07-2025</title>
+      <link>https://karielson.github.io/transpocast/transpocast_2025-07-19.mp3</link>
+      <description>Resumo das principais notícias de mobilidade urbana do dia 19-07-2025.</description>
+      <enclosure url="https://karielson.github.io/transpocast/transpocast_2025-07-19.mp3" type="audio/mpeg" length="12345678" />
+      <guid>https://karielson.github.io/transpocast/transpocast_2025-07-19.mp3</guid>
+      <pubDate>Sat, 19 Jul 2025 15:33:48 +0000</pubDate>
+      <itunes:image href="https://karielson.github.io/transpocast/capa_transpocastnews.jpg" />
+    </item>
+
+    <item>
+      <title>TranspoCast News - 20-07-2025</title>
+      <link>https://karielson.github.io/transpocast/transpocast_2025-07-20.mp3</link>
+      <description>Resumo das principais notícias de mobilidade urbana do dia 20-07-2025.</description>
+      <enclosure url="https://karielson.github.io/transpocast/transpocast_2025-07-20.mp3" type="audio/mpeg" length="12345678" />
+      <guid>https://karielson.github.io/transpocast/transpocast_2025-07-20.mp3</guid>
+      <pubDate>Sun, 20 Jul 2025 11:14:01 +0000</pubDate>
+      <itunes:image href="https://karielson.github.io/transpocast/capa_transpocastnews.jpg" />
+    </item>
+  </channel>
+</rss>
